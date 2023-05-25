@@ -32,7 +32,6 @@ public class linksverify extends baseClass {
 		for (WebElement link : hpo.linksverify())
 
 		{
-
 			String url = link.getAttribute("href");
 
 			HttpURLConnection conn = (HttpURLConnection) new URL(url).openConnection();
