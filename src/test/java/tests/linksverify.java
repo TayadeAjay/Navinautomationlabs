@@ -33,6 +33,7 @@ public class linksverify extends baseClass {
 
 		{
 			
+			
 			String url = link.getAttribute("href");
 
 			HttpURLConnection conn = (HttpURLConnection) new URL(url).openConnection();
