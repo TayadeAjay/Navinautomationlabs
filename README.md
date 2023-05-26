@@ -26,7 +26,7 @@ Navin Automibles Lab is an open-source e-commerce web application developed usin
 
 ## Installation and Setup
 
-1. Clone the project repository: `git clone <repository_url>`
+1. Clone the project repository: `git clone https://github.com/TayadeAjay/Navinautomobilelab.git`
 2. Import the project into Eclipse.
 3. Set up the necessary dependencies using Maven.
 4. Configure the application properties, such as database connection details and payment gateway credentials.
