@@ -1,4 +1,4 @@
-# Heading 3 Navin Automibles Lab
+# Navin Automibles Lab
 
 Navin Automibles Lab is an open-source e-commerce web application developed using various tools and technologies. This project aims to provide a comprehensive platform for selling and purchasing automobiles online. The application is built using Eclipse, Selenium, Java, Maven, TestNG, Apache POI, and Extent Report.
 
