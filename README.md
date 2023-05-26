@@ -1,67 +1,75 @@
-# Navin Automibles Lab
+# Navin Automationlabs - Ecommerce Web Application
 
-Navin Automibles Lab is an open-source e-commerce web application developed using various tools and technologies. This project aims to provide a comprehensive platform for selling and purchasing automobiles online. The application is built using Eclipse, Selenium, Java, Maven, TestNG, Apache POI, and Extent Report.
+Navin Automationlabs is an open-source project that provides a robust ecommerce web application. This project is developed using Eclipse, Selenium, Java, Maven, TestNG, Apache POI, and Extent Report. The application aims to provide a seamless online shopping experience for users.
 
 ## Features
 
-- **User Registration and Authentication:** Users can create accounts, login, and manage their profiles.
-- **Product Catalog:** The application provides a catalog of various automobiles available for purchase.
-- **Search and Filters:** Users can search for specific automobiles based on make, model, price, etc.
-- **Product Details:** Detailed information about each automobile, including specifications, features, and images.
-- **Shopping Cart:** Users can add automobiles to their cart, review the items, and proceed to checkout.
-- **Secure Payment:** Integration with a secure payment gateway to facilitate secure online transactions.
-- **Order Management:** Users can view and manage their orders, including order status and history.
-- **Admin Dashboard:** An administrative interface for managing products, users, and orders.
-- **Reporting:** Generation of detailed reports using Extent Report to track sales, user activity, etc.
+- User Registration: Users can create an account by providing their details, such as name, email, and password.
+- Product Catalog: Browse through a wide range of products and view their details, including images, descriptions, and prices.
+- Add to Cart: Users can add products to their shopping cart for purchase.
+- Cart Management: Modify the quantity of items in the cart, remove items, or clear the entire cart.
+- Checkout: Users can proceed to checkout to complete their purchase, entering shipping and payment information.
+- Order History: View a record of past orders and their details.
+- Search Functionality: Search for specific products using keywords.
+- User Authentication: Secure login system to protect user accounts.
+- Admin Dashboard: An administration interface for managing products, orders, and user accounts.
 
-## Tools and Technologies Used
+## Tools Used
 
-- **Eclipse:** An integrated development environment (IDE) used for Java development.
-- **Selenium:** A popular automation testing framework for web applications.
-- **Java:** The programming language used to develop the application.
-- **Maven:** A build automation tool used for dependency management and project building.
-- **TestNG:** A testing framework used for unit and integration testing.
-- **Apache POI:** A Java library used for reading and writing Excel files.
-- **Extent Report:** A reporting framework used to generate detailed test reports.
+- Eclipse: An integrated development environment (IDE) for Java programming.
+- Selenium: A web testing framework used for automating web browsers.
+- Java: The programming language used for developing the application.
+- Maven: A build automation tool for managing project dependencies and generating the project's structure.
+- TestNG: A testing framework for running automated tests.
+- Apache POI: A Java library for reading and writing Microsoft Office file formats, used for generating reports.
+- Extent Report: A reporting library used to generate detailed test reports.
 
-## Installation and Setup
+## Getting Started
 
-1. Clone the project repository: `git clone https://github.com/TayadeAjay/Navinautomobilelab.git`
-2. Import the project into Eclipse.
-3. Set up the necessary dependencies using Maven.
-4. Configure the application properties, such as database connection details and payment gateway credentials.
-5. Build the project to ensure all dependencies are resolved.
-6. Run the application and access it through the specified URL.
+To run the Navin Automationlabs ecommerce web application, follow these steps:
 
-## Usage
+1. Clone the project repository from GitHub: [repository_link](https://github.com/your_username/navin-automationlabs).
 
-1. Register as a user or log in if you already have an account.
-2. Browse the product catalog to view available automobiles.
-3. Use the search and filters to find specific automobiles based on your preferences.
-4. Click on an automobile to view its detailed information.
-5. Add desired automobiles to your shopping cart.
-6. Review the items in your cart and proceed to checkout.
-7. Provide the necessary information for shipping and payment.
-8. Confirm the order and make a secure payment.
-9. Track the status of your order through the order management section.
-10. Admins can access the admin dashboard to manage products, users, and orders.
+2. Import the project into Eclipse or any Java IDE of your choice.
 
-## Contributions
+3. Install the necessary dependencies using Maven. Run the following command in the terminal:
 
-Contributions to the Navin Automibles Lab project are welcome! If you'd like to contribute, please follow these steps:
+   ```shell
+   mvn clean install
+   ```
 
-1. Fork the repository and create a new branch for your feature or bug fix.
-2. Implement your changes and ensure they are working correctly.
-3. Write tests for your code, if applicable.
-4. Commit your changes and push them to your forked repository.
-5. Submit a pull request detailing the changes you have made.
+4. Configure the project settings, such as database connection details, in the relevant configuration files.
 
-Please ensure your code follows the project's coding standards and includes appropriate documentation.
+5. Run the application by executing the main class or using the IDE's run configuration.
+
+6. Access the web application through your preferred web browser using the provided URL.
+
+## Contributing
+
+We welcome contributions to the Navin Automationlabs project. If you would like to contribute, please follow these steps:
+
+1. Fork the repository on GitHub.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make the necessary changes and commit them to your branch.
+
+4. Submit a pull request, explaining the purpose and scope of your changes.
+
+5. Our team will review your pull request, provide feedback, and merge it if deemed appropriate.
 
 ## License
 
-Navin Automibles Lab is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this project for both commercial and non-commercial purposes.
+Navin Automationlabs is open-source software released under the [MIT License](LICENSE).
 
-## Contact
+## Support
 
-If you have any questions or suggestions regarding the Navin Automibles Lab project, feel free to contact us at [divtayade@gmail.com] We appreciate your feedback and support!
+If you encounter any issues or have any questions, please open an issue on the project's GitHub repository: [repository_issues](https://github.com/your_username/navin-automationlabs/issues).
+
+## Acknowledgments
+
+We would like to express our gratitude to the open-source community for their valuable contributions to the tools and libraries used in this project.
+
+## Disclaimer
+
+Navin Automationlabs is a project created for educational and demonstration purposes. It does not represent a real production-ready ecommerce application. Use it responsibly and ensure to comply with legal and ethical standards when using any part of this project.
