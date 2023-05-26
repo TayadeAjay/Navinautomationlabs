@@ -28,7 +28,7 @@ Navin Automationlabs is an open-source project that provides a robust ecommerce 
 
 To run the Navin Automationlabs ecommerce web application, follow these steps:
 
-1. Clone the project repository from GitHub: [repository_link](https://github.com/your_username/navin-automationlabs).
+1. Clone the project repository from GitHub: [repository_link](https://github.com/TayadeAjay/Navinautomationlabs.git).
 
 2. Import the project into Eclipse or any Java IDE of your choice.
 
@@ -64,7 +64,7 @@ Navin Automationlabs is open-source software released under the [MIT License](LI
 
 ## Support
 
-If you encounter any issues or have any questions, please open an issue on the project's GitHub repository: [repository_issues](https://github.com/your_username/navin-automationlabs/issues).
+If you encounter any issues or have any questions, please open an issue on the project's GitHub repository: [repository_issues](https://github.com/TayadeAjay/navin-automationlabs/issues).
 
 ## Acknowledgments
 
